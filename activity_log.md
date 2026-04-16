@@ -7,3 +7,4 @@
 - [2026-04-16T16:18:25Z] chore: remove deprecated API calls
 - [2026-04-16T08:31:17Z] refactor: clean up unused imports
 - [2026-04-16T17:06:47Z] fix: handle null pointer exception
+- [2026-04-16T12:17:11Z] test: add unit tests for core module
